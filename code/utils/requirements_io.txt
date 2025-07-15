@@ -8,5 +8,8 @@ https://www.mathworks.com/matlabcentral/fileexchange/32782-tsvread-importing-tab
 intan file reader : 
 https://intantech.com/downloads.html?tabSelect=Software&yPos=0
 
+read intan files in matlab:
+https://matlab.mathworks.com/open/fileexchange/v1?id=43662
+
 eeglab package:
 https://matlab.mathworks.com/open/fileexchange/v1?id=56415
