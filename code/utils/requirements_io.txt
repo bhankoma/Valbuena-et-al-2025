@@ -1,8 +1,12 @@
 IO Requirements:
 npy-matlab : 
 https://github.com/kwikteam/npy-matlab
+
 tsvread: 
 https://www.mathworks.com/matlabcentral/fileexchange/32782-tsvread-importing-tab-separated-data
 
 intan file reader : 
 https://intantech.com/downloads.html?tabSelect=Software&yPos=0
+
+eeglab package:
+https://matlab.mathworks.com/open/fileexchange/v1?id=56415
